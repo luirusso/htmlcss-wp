@@ -12,8 +12,13 @@
     margin: 25px auto;
 }
 
+h1 {
+    font-size: 42px;
+    font-weight: 600;
+}
+
 .bottomsection {
-    background-color: #0185FF;
+
 }
 
 footer {
@@ -33,6 +38,7 @@ nav {
 nav ul li {
     display: inline-block;
     text-transform: uppercase;
+    font-size: 18px;
     margin-right: 10px;
 }
 
@@ -79,8 +85,16 @@ nav ul li a:hover {
     padding-left: 72px;
 }
 
-/* UTILITIES */
+/* 2nd SECTION */
+.subtext {
+    color: #898989;
+    font-size: 20px;
+}
 
+/* UTILITIES */
+.mb-50px {
+    margin-bottom: 50px;
+}
 
 .debug-box {
     height: 100px;
@@ -133,5 +147,5 @@ nav ul li a:hover {
 
 .mid {
     width: 58%;
-    margin: 0 15.2px;
+    margin: 0 13px;
 }
