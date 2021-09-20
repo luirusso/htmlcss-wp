@@ -91,6 +91,41 @@ nav ul li a:hover {
     font-size: 20px;
 }
 
+/* FLOAT SECTION */
+.aside-img1 {
+    height: 250px;
+    background-image: url(../img/img-1.jpg);
+    background-position: center;
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+}
+
+.floatsec h4 {
+    margin: 20px auto;
+    font-weight: 500;
+}
+
+.floatsec p {
+    color: #898989;
+}
+
+.mid-img {
+    background-image: url(../img/banner-2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+}
+
+.aside-img2 {
+    height: 250px;
+    background-image: url(../img/img-3.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+}
 /* UTILITIES */
 .mb-50px {
     margin-bottom: 50px;
@@ -146,6 +181,6 @@ nav ul li a:hover {
 }
 
 .mid {
-    width: 58%;
-    margin: 0 13px;
+    width: 57%;
+    margin: 0 20px;
 }
