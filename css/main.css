@@ -58,9 +58,25 @@ nav ul li a:hover {
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
 }
 
+.banner-text {
+    width: 60%;
+}
+
+.banner h2 {
+    padding-top: 338px;
+    font-weight: 300;
+    font-size: 35px;
+}
+
+.banner p {
+    font-weight: 300;
+    font-size: 18px;
+}
+
 .banner h2,
 .banner p {
     color: white;
+    padding-left: 72px;
 }
 
 /* UTILITIES */
