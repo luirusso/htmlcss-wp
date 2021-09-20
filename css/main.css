@@ -17,12 +17,15 @@ h1 {
     font-weight: 600;
 }
 
-.bottomsection {
-
+footer {
+    text-align: center;
+    font-size: 18px;
 }
 
-footer {
-    margin-top: 15px;
+.heart {
+    color: red;
+    font-size: 32px;
+    vertical-align: sub;
 }
 
 /* HEADER */
