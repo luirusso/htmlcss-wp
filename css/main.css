@@ -25,6 +25,7 @@ footer {
 
 .heart {
     color: red;
+    font-family: system-ui;
     font-size: 32px;
     vertical-align: sub;
 }
